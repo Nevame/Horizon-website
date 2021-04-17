@@ -1,0 +1,38 @@
+.mynavbar {
+    min-height:130px;
+    margin-bottom: 0px;
+}
+
+.aboutus {
+	padding-top: 40px;
+}
+
+.caption>h3 {
+	text-align: center;
+}
+
+.thumbnail>img {
+	height: 180px;
+  	width: 315px;
+}
+
+.footer {
+	background-color: blue;
+	margin-top: 30px;
+}
+
+footer {
+	text-align: center;
+	color: #dff0d8;
+}
+
+.footer h3 { color: darkgoldenrod;
+}
+
+.footer p {
+	color:#5eef14;
+}
+
+.item img {
+	height: 340px;
+}
